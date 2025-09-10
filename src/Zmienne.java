@@ -29,5 +29,8 @@ public class Zmienne {
 
         boolean tw = true; //false
 
+
+        // https://github.com/przemjan/trzeciaD_gr2_r2025
+
     }
 }
