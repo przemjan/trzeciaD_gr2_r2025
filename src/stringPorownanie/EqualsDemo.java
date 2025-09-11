@@ -5,7 +5,7 @@ public class EqualsDemo {
         String imie1 = "Arnold";
         String imie2 = "Arnold";
 
-        if( imie1.equalsIgnoreCase(imie2) )    {
+        if( imie1.equalsIgnoreCase( imie2) )    {
             System.out.println("Te imiona są takie same");
         }
         else {
